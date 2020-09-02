@@ -199,17 +199,6 @@ class GameFunction():
 
 GameFunction(Fm.menu())                             #pass gtype argument to choice parameter
 
-"""
-Developed and designed by Abhishek Mandal@Linkedln     akrosof@github
-future implementations:
-        -choice 2 feature
-        -proper dice thoery implementation
-        -shorter code
-        -bug fixes and UI neatness
-        -display name under dice
-        -feature to charge money for each run
-        -clear screen on each output
-""" 
 
 
       
