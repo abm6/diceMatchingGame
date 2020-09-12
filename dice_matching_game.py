@@ -32,7 +32,7 @@ class Framework():
         print(f" PLAYER 1                        PLAYER 2")
 
     def menu(self):
-        print("\t\t\tWELCOME TO THE GAME OF DICE       --By Abhishek Mandal\n\n")
+        print("\t\t\tWELCOME TO THE GAME OF DICE     \n\n")
         player=int(input("\t\t\tTWO PLAYERS OR ONE PLAYER :"))
         if player == 2:                          #INCREASE CHARGES IN virtualcoins PER CHANCE PLAYED
             gtype=int(input("\n WHICH GAME YOU WANT TO PLAY?? \n1.WHO GETS A SIX\n2. DOT WINNER(in development)\n -->"))
